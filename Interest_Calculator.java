@@ -1,7 +1,7 @@
 /*
 Author: Melissa Mitchell
 Compound Interest Calculator
- this calculator will find the compound interest for the years user will specify. 
+This calculator will find the compound interest for the years user will specify. 
 The calculator also provides the total profit for the same amount of years.
  */
 package interest_calculator;
