@@ -1,14 +1,13 @@
 /*
-Author: Melissa Mitchell
 Compound Interest Calculator
-This calculator will find the compound interest for the years user will specify. 
+This program will calculate the compound interest for the years user will specify. 
 The calculator also provides the total profit for the same amount of years.
  */
 package interest_calculator;
 import java.util.Scanner;
 /**
  *
- * @author melci
+ * @author Melissa Mitchell
  */
 public class Interest_Calculator {
 
